@@ -1,0 +1,27 @@
+{
+  "name": "janitors",
+  "version": "1.0.1",
+  "description": "A module to observe changes to objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swngarg13/janitors.git"
+  },
+  "keywords": [
+    "object",
+    "observer",
+    "change"
+  ],
+  "author": "Sawan Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swngarg1308/janitors/issues"
+  },
+  "homepage": "https://github.com/swngarg13/janitors#readme",
+  "dependencies": {
+    "observable-slim": "^0.1.5"
+  }
+}
